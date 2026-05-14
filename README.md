@@ -5,19 +5,19 @@ This Program is designed to help in making the office hours spreadsheet. It curr
 
 # INSTRUCTIONS
 
--First download the .csv file [faculty](https://github.com/S-F-III/MATHSchedulePuller/blob/main/faculty.csv)
--Then go to the releases section of the repo and download the latest version of the Schedule Puller file 
--This can be found on the right side of the main page. 
+- First download the .csv file [faculty](https://github.com/S-F-III/MATHSchedulePuller/blob/main/faculty.csv)
+- Then go to the releases section of the repo and download the latest version of the Schedule Puller file 
+- This can be found on the right side of the main page. 
 
 ---
 
--Second put the [faculty](https://github.com/S-F-III/MATHSchedulePuller/blob/main/faculty.csv) file and The Schedule Puller file in the same folder
--its best not to run the program in the Downloads folder since it will create a new file
+- Second put the [faculty](https://github.com/S-F-III/MATHSchedulePuller/blob/main/faculty.csv) file and The Schedule Puller file in the same folder
+- its best not to run the program in the Downloads folder since it will create a new file
 
 ---
 
--Third run the Schedule Puller file and follow the instructions in the window that is opened 
--once the program is complete you should see a file called final_output which will have semester's class information. 
+- Third run the Schedule Puller file and follow the instructions in the window that is opened 
+- once the program is complete you should see a file called final_output which will have semester's class information. 
 
 
 # Aditional Info
