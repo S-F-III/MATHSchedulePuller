@@ -29,6 +29,6 @@ Currently best pracice would be to copy the data and paste it into the new excel
 THERE IS CURRENTLY NOT FUNCTIONALITY FOR UTEACH CLASSES
 - This will be corrected soon.
 
-Contact Steve Fleming at: Steve.Fleming1995@gmail.com if there is a problem with the program. If you would like to request additional functionality first browse the TODO list before emailing.
+Contact Steve Fleming at: Steve.Fleming1995@gmail.com if there is a problem with the program. If you would like to request additional functionality first browse the [TODO](https://github.com/S-F-III/MATHSchedulePuller/blob/main/TODO.txt) list before emailing.
 
 "The early bird may get the worm but the second mouse gets the cheese" 
