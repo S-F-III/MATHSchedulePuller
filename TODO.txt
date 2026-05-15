@@ -1,0 +1,10 @@
+TODO list:
+List is not in order of severity 
+
+1. Remove all other output files
+2. Error Handling in case of incorrect input (When Errors are thrown should alert user to include in email)
+3. Add Room Numbers to faculty.csv for their office
+4. Add Room Numbers to final output 
+5. Add functionality for UTE Classes
+6. Add SimpleSyllabus Scrapping (Multiple Tabs?, Threads?)
+7. Add functionality to convert to .xls 
