@@ -8,3 +8,4 @@ List is not in order of severity
 5. Add functionality for UTE Classes
 6. Add SimpleSyllabus Scrapping (Multiple Tabs?, Threads?)
 7. Add functionality to convert to .xls 
+8. Correct issue with email adding a new line instead of tacking on to the second line
